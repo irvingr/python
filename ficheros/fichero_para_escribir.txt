@@ -1,0 +1,1 @@
+Hola, esta es la línea que vamos a escribir en el fichero de texto.
